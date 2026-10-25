@@ -6,7 +6,6 @@ Trang profile tĩnh (HTML/CSS thuần), host bằng GitHub Pages.
 
 - `index.html` — toàn bộ trang
 - `anh-web.jpg` — ảnh chân dung đã nén dùng trên trang (`anh.jpg` là ảnh gốc)
-- `CV_tran.pdf` — CV, mở từ nút "Xem CV"
 
 ## Đăng lên GitHub Pages
 
